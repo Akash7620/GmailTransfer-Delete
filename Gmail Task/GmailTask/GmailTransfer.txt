@@ -1,0 +1,1 @@
+services@cdslindia.co.in-ShareTrading/Service,Edelweiss.BrokingReports@edelweiss.in-ShareTrading/Broking Report,nse.co.in-ShareTrading/NSE Direct,tradeconf@edelweiss.in-ShareTrading/Trade Confirmation,alerts@hdfcbank.net-Bank/HDFC Bank,net.statement@citicorp.com-Bank/CITI Bank,donotreply.sbiatm-Bank/SBI
